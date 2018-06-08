@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 DO OR OD NOT, THERE IS NO TRY.
-
+=======
+do or od not, there is no try
+no try there is, do or do not.
+>>>>>>> yoda.txt commited on master branch
